@@ -3,4 +3,6 @@ streamlit-autorefresh
 pandas
 requests
 numpy
+Office365-REST-Python-Client
+openpyxl
 
